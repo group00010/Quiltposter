@@ -3,7 +3,9 @@ Quilt poster
 
 # R.E.L. (AKA Ria, Eden, Landy)
 Created by: Ria, Eden, Landy
+
 Course: Creative Coding, Pratt Institute
+
 Semester: Fall 2026
 
 # About the Project
@@ -14,7 +16,9 @@ What can the users modify?
 
 # Meet the Designers?
 Ria: brief description of tile designs and contributions.
+
 Eden: brief description of tile designs and contributions.
+
 Landy: brief description of tile designs and contributions.
 
 # Files

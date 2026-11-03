@@ -1,4 +1,4 @@
-# Quiltposter
+# Quilt Poster
 Quilt poster
 
 # R.E.L. (AKA Ria, Eden, Landy)

@@ -15,7 +15,7 @@ The idea behind our poster generator was that they would contrast each other wit
 The user can modify the color palette and the designs of the tiles, with any combination they desire. 
 
 # Meet The Designers
-Ria: brief description of tile designs and contributions.
+Ria: Yellowr! I made one set of the colour palettes and tile designs. I coded the canvas configuartion, grid and the randomisation of the quilt :3
 
 Eden: I created my own color palette and designed a tile function with the shapes I wanted. I then created the function for the title and color squares to appear on the screen, as well as putting together the function that put the quilt, title, and color squares on the same screen. 
 

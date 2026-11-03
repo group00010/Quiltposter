@@ -22,4 +22,9 @@ Eden: I created my own color palette and designed a tile function with the shape
 Landy: brief description of tile designs and contributions.
 
 # Files
-file names
+project.py – Main poster-generation program.
+palette_options.py – Available color palettes.
+ria_tile_.py – Ria's function.
+Eden_TileFunction.py – Eden's function
+Landy_TileFunction.py – Landy's Function
+requirements.txt – Libraries.

@@ -1,0 +1,272 @@
+# Function definition for person 2 here
+# Function definition for person 1 here
+def draw_ria_tile(t, x, y, size, rotation, palette, tile_type="center"):
+    """
+    Draws a parameterized geometric tile centered at (x, y).
+
+    Parameters:
+    - t: Turtle object
+    - x, y (float/int): Center coordinates of the tile
+    - size (float/int): Width and height of the tile bounding box
+    - rotation (int): Orientation angle (0, 90, 180, 270)
+    - palette (dict): RGB tuples with keys 'bg', 'primary', 'secondary', 'accent'
+    - tile_type (str): "center", "border", or "corner" (defaults to "center")
+    """
+
+    # ==========================================
+    # TURTLE SETUP
+    # ==========================================
+    t.penup()
+    t.goto(x, y)
+    t.setheading(rotation)
+
+    # Useful relative dimension constants (derived from size)
+    half = size / 2
+    quarter = size / 4
+
+    # ==========================================
+    # BASE BACKGROUND
+    # All tile variations share a clean backdrop
+    # ==========================================
+    # Move to the bottom-left corner relative to orientation
+    t.forward(-half)
+    t.left(90)
+    t.forward(-half)
+    t.right(90)
+
+    t.pencolor(palette["bg"])
+    t.fillcolor(palette["bg"])
+    t.pensize(2)
+    t.pendown()
+    t.begin_fill()
+    for _ in range(4):
+        t.forward(size)
+        t.left(90)
+    t.end_fill()
+    t.penup()
+
+    # Return turtle to the true center of the tile
+    t.goto(x, y)
+    t.setheading(rotation)
+
+    ######################### YOUR CHANGES START HERE ###########################
+
+    # ==========================================
+    # CONDITIONAL GEOMETRY (Based on tile_type)
+    # ==========================================
+
+    # ------------------------------------------
+    # OPTION 1: CORNER TILE
+    # ------------------------------------------
+    if tile_type == "corner":
+
+        ############## This part is my own drawing #######################
+        ################## Change it to your design ######################
+        t.pencolor(palette["accent"])
+        t.pensize(30)
+        t.forward(quarter)
+        t.right(90)
+        t.forward(quarter)
+        t.left(180)
+
+        t.pendown()
+        t.forward(half)
+        t.left(90)
+        t.forward(half)
+        t.penup()
+
+        t.goto(x, y)
+        t.pencolor(palette["secondary"])
+        t.pensize(10)
+        t.forward(quarter)
+        t.right(90)
+        t.forward(quarter)
+        t.left(180)
+
+        t.pendown()
+        t.forward(half)
+        t.left(90)
+        t.forward(half)
+        t.penup()
+
+    # ------------------------------------------
+    # OPTION 2: BORDER TILE
+    # ------------------------------------------
+    elif tile_type == "border":
+
+        ############## This part is my own drawing #######################
+        ################## Change it to your design ######################
+        t.color(palette["primary"], palette["primary"])
+        t.forward(-half)
+        t.left(90)
+        t.forward(quarter)
+        t.right(90)
+
+        t.pendown()
+        t.begin_fill()
+        for _ in range(2):
+            t.forward(quarter)
+            t.left(90)
+            t.forward(quarter)
+            t.left(90)
+        t.end_fill()
+        t.penup()
+
+        t.forward(quarter)
+        t.color(palette["secondary"])
+        t.pendown()
+        t.begin_fill()
+        for _ in range(2):
+            t.forward(quarter)
+            t.left(90)
+            t.forward(quarter)
+            t.left(90)
+        t.end_fill()
+        t.penup()
+
+        t.forward(quarter)
+        t.color(palette["primary"])
+        t.pendown()
+        t.begin_fill()
+        for _ in range(2):
+            t.forward(quarter)
+            t.left(90)
+            t.forward(quarter)
+            t.left(90)
+        t.end_fill()
+        t.penup()
+
+        t.forward(quarter)
+        t.color(palette["secondary"])
+        t.pendown()
+        t.begin_fill()
+        for _ in range(2):
+            t.forward(quarter)
+            t.left(90)
+            t.forward(quarter)
+            t.left(90)
+        t.end_fill()
+        t.penup()
+
+        t.goto(x, y)
+        t.setheading(rotation)
+        t.pencolor(palette["accent"])
+        t.pensize(3)
+        t.forward(-half)
+        t.left(90)
+        t.forward(quarter)
+        t.right(90)
+        t.pendown()
+        t.forward(size)
+        t.penup()
+
+    # ------------------------------------------
+    # OPTION 3: CENTER TILE
+    # ------------------------------------------
+    else:
+
+        ############## This part is my own drawing #######################
+        ################## Change it to your design ######################
+
+        t.color(palette["primary"], palette["primary"])
+        t.goto(x, y)
+        t.setheading(rotation + 45)
+        t.forward(half * 0.9)
+        t.left(135)
+        t.pendown()
+        t.begin_fill()
+        for _ in range(4):
+            t.forward(half * 1.27)
+            t.left(90)
+        t.end_fill()
+        t.penup()
+
+        t.color(palette["accent"], palette["accent"])
+        for angle in [0, 90, 180, 270]:
+            t.goto(x, y)
+            t.setheading(rotation + angle)
+            t.forward(quarter * 1.1)
+            t.pendown()
+            t.begin_fill()
+            for _ in range(4):
+                t.forward(quarter * 0.45)
+                t.left(90)
+            t.end_fill()
+            t.penup()
+
+        t.pencolor(palette["secondary"])
+        t.pensize(3)
+        t.goto(x, y)
+        t.setheading(rotation)
+        t.forward(-quarter * 0.95)
+        t.left(90)
+        t.forward(-quarter * 0.95)
+        t.right(90)
+        t.pendown()
+        for _ in range(4):
+            t.forward(quarter * 1.9)
+            t.left(90)
+        t.penup()
+
+        t.color(palette["accent"], palette["accent"])
+        t.goto(x, y)
+        t.setheading(rotation + 45)
+        t.forward(quarter * 0.6)
+        t.left(135)
+        t.pendown()
+        t.begin_fill()
+        for _ in range(4):
+            t.forward(quarter * 0.85)
+            t.left(90)
+        t.end_fill()
+        t.penup()
+
+        t.color(palette["bg"], palette["bg"])
+        t.goto(x, y)
+        t.setheading(rotation)
+        t.forward(-quarter * 0.3)
+        t.left(90)
+        t.forward(-quarter * 0.3)
+        t.right(90)
+        t.pendown()
+        t.begin_fill()
+        for _ in range(4):
+            t.forward(quarter * 0.6)
+            t.left(90)
+        t.end_fill()
+        t.penup()
+
+    # ==========================================
+    # DRAW BORDER (OPTIONAL IF YOU WANT A BORDER)
+    # ==========================================
+
+    ############## This part is my own drawing #######################
+    ################## Change it to your design ######################
+    t.pencolor(palette["secondary"])
+    t.pensize(2)
+
+    # Go to the corner
+    t.penup()
+    t.goto(x, y)
+    t.setheading(rotation)
+    t.forward(-half)
+    t.left(90)
+    t.forward(-half)
+    t.right(90)
+
+    # Draw the border
+    t.pendown()
+    for _ in range(4):
+        t.forward(size)
+        t.left(90)
+    t.penup()
+
+    ######################### YOUR CHANGES END HERE #############################
+
+    # ==========================================
+    # TURTLE TEARDOWN
+    # Reset pen, heading, and state for the next user
+    # ==========================================
+    t.penup()
+    t.setheading(0)
+    t.pencolor((0, 0, 0))

@@ -199,3 +199,6 @@ for label, rgb_value in palette.items():
 
 t.hideturtle()
 t.done()
+
+ # Save the poster as an SVG file
+saveSVG("/content/poster.svg")

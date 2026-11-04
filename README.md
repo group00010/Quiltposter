@@ -19,7 +19,7 @@ Ria: Yellowr! I made one set of the colour palettes and tile designs. I coded th
 
 Eden: I created my own color palette and designed a tile function with the shapes I wanted. I then created the function for the title and color squares to appear on the screen, as well as putting together the function that put the quilt, title, and color squares on the same screen. 
 
-Landy: brief description of tile designs and contributions.
+Landy: I created a color palette and tile design set. I coded the user input correction system and the pallete randomiser (Interaction and Data Engineer). 
 
 # Files
 project.py – Main poster-generation program.

@@ -33,3 +33,9 @@ Eden_TileFunction.py – Eden's function
 Landy_TileFunction.py – Landy's Function
 
 requirements.txt – Libraries.
+
+Example_Poster01.svg
+
+Example_Poster02.svg
+
+Example_Poster03.svg

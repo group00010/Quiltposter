@@ -81,13 +81,13 @@ converts to svg format
 End
 # Try It Yourself 
 Copy this code into a Colab Notebook.
-'''python
+```python
 !git clone https://github.com/group00010/Quiltposter
 %cd Quiltposter
 !pip install -r requirements.txt
 from project import generate_poster
 generate_poster()
-'''
+```
 
 How to Use
 Open the notebook in Google Colab.

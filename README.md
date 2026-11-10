@@ -79,6 +79,15 @@ moves to predetermined location to print text from the draw poster text function
 closes grphic pipeline
 converts to svg format
 End
+# Try It Yourself 
+Copy this code into a Colab Notebook.
+
+How to Use
+Open the notebook in Google Colab.
+Run the setup cells to download the project code and install the required libraries.
+Run the cell that calls the function and prompts the user to choose a title, grid dimensions, and color palette.
+Your own poster will be saved as poster.svg!
+
 # Files
 project.py – Main poster-generation program.
 

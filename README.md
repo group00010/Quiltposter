@@ -88,14 +88,14 @@ Copy this code into a Colab Notebook.
 from project import generate_poster
 generate_poster()
 ```
+Or click below to open an example notebook in Google Colab and generate your own poster!
+https://colab.research.google.com/drive/1w_bAsI9PdaKdWB0x6qyVakyMFX8Sk1U3?usp=sharing
 
 ### How to Use
 Open the notebook in Google Colab.
 Run the setup cells to download the project code and install the required libraries.
 Run the cell that calls the function and prompts the user to choose a title, grid dimensions, and color palette.
 Your own poster will be saved as poster.svg!
-
-Or click below to open an example notebook in Google Colab and generate your own poster!
 
 # Files
 project.py – Main poster-generation program.

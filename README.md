@@ -89,7 +89,7 @@ from project import generate_poster
 generate_poster()
 ```
 
-## How to Use
+### How to Use
 Open the notebook in Google Colab.
 Run the setup cells to download the project code and install the required libraries.
 Run the cell that calls the function and prompts the user to choose a title, grid dimensions, and color palette.

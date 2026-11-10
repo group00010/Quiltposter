@@ -1,0 +1,327 @@
+<svg width="820" height="1120" viewBox="0 0 820 1120" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" style="fill:white;stroke:;stroke-width:1" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 230.0 230.0  L 230.0 50.0  L 50.0 50.0  L 50.0 230.0  L 230.0 230.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 140.0 95.0  A 45.0 45.0 0 0 0 95.0 140.0  L 140.0 140.0  L 140.0 95.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path d="M 95.0 72.5 A 22.5 22.5 0 0 0 95.0 117.5" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(222,56,131);stroke-width:2"/>
+<path d="M 95.0 117.5 A 22.5 22.5 0 0 0 95.0 72.5" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(222,56,131);stroke-width:2"/>
+<line x1="95.0" y1="72.5" x2="95.0" y2="95.0" stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" />
+<line x1="50.0" y1="50.0" x2="81.82" y2="81.82" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:5" />
+<line x1="230.0" y1="230.0" x2="230.0" y2="50.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="50.0" x2="50.0" y2="50.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="50.0" y1="50.0" x2="50.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="50.0" y1="230.0" x2="230.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 410.0 50.0  L 230.0 50.0  L 230.0 230.0  L 410.0 230.0  L 410.0 50.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 410.0 185.0  L 230.0 185.0  L 230.0 230.0  L 410.0 230.0  L 410.0 185.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="410.0" y1="140.0" x2="230.0" y2="140.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:1" />
+<line x1="410.0" y1="185.0" x2="387.5" y2="185.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="365.0" y1="185.0" x2="342.5" y2="185.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="320.0" y1="185.0" x2="297.5" y2="185.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="275.0" y1="185.0" x2="252.5" y2="185.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<path d="M 365.0 185.0 A 2 2 0 0 0 365.0 189.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 365.0 189.0 A 2 2 0 0 0 365.0 185.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 320.0 185.0 A 2 2 0 0 0 320.0 189.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 320.0 189.0 A 2 2 0 0 0 320.0 185.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 275.0 185.0 A 2 2 0 0 0 275.0 189.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 275.0 189.0 A 2 2 0 0 0 275.0 185.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<line x1="410.0" y1="50.0" x2="230.0" y2="50.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="50.0" x2="230.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="230.0" x2="410.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="230.0" x2="410.0" y2="50.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 410.0 230.0  L 590.0 230.0  L 590.0 50.0  L 410.0 50.0  L 410.0 230.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 410.0 95.0  L 590.0 95.0  L 590.0 50.0  L 410.0 50.0  L 410.0 95.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="410.0" y1="140.0" x2="590.0" y2="140.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:1" />
+<line x1="410.0" y1="95.0" x2="432.5" y2="95.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="455.0" y1="95.0" x2="477.5" y2="95.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="500.0" y1="95.0" x2="522.5" y2="95.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="545.0" y1="95.0" x2="567.5" y2="95.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<path d="M 455.0 95.0 A 2 2 0 0 0 455.0 91.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 455.0 91.0 A 2 2 0 0 0 455.0 95.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 500.0 95.0 A 2 2 0 0 0 500.0 91.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 500.0 91.0 A 2 2 0 0 0 500.0 95.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 545.0 95.0 A 2 2 0 0 0 545.0 91.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 545.0 91.0 A 2 2 0 0 0 545.0 95.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<line x1="410.0" y1="230.0" x2="590.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="590.0" y1="230.0" x2="590.0" y2="50.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="590.0" y1="50.0" x2="410.0" y2="50.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="50.0" x2="410.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 590.0 230.0  L 770.0 230.0  L 770.0 50.0  L 590.0 50.0  L 590.0 230.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 725.0 140.0  A 45.0 45.0 0 0 0 680.0 95.0  L 680.0 140.0  L 725.0 140.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path d="M 747.5 95.0 A 22.5 22.5 0 0 0 702.5 95.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(222,56,131);stroke-width:2"/>
+<path d="M 702.5 95.0 A 22.5 22.5 0 0 0 747.5 95.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(222,56,131);stroke-width:2"/>
+<line x1="747.5" y1="95.0" x2="725.0" y2="95.0" stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" />
+<line x1="770.0" y1="50.0" x2="738.18" y2="81.82" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:5" />
+<line x1="590.0" y1="230.0" x2="770.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="770.0" y1="230.0" x2="770.0" y2="50.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="770.0" y1="50.0" x2="590.0" y2="50.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="590.0" y1="50.0" x2="590.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 50.0 230.0  L 50.0 410.0  L 230.0 410.0  L 230.0 230.0  L 50.0 230.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 185.0 230.0  L 185.0 410.0  L 230.0 410.0  L 230.0 230.0  L 185.0 230.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="140.0" y1="230.0" x2="140.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:1" />
+<line x1="185.0" y1="230.0" x2="185.0" y2="252.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="185.0" y1="275.0" x2="185.0" y2="297.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="185.0" y1="320.0" x2="185.0" y2="342.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="185.0" y1="365.0" x2="185.0" y2="387.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<path d="M 185.0 275.0 A 2 2 0 0 0 189.0 275.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 189.0 275.0 A 2 2 0 0 0 185.0 275.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 185.0 320.0 A 2 2 0 0 0 189.0 320.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 189.0 320.0 A 2 2 0 0 0 185.0 320.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 185.0 365.0 A 2 2 0 0 0 189.0 365.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 189.0 365.0 A 2 2 0 0 0 185.0 365.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<line x1="50.0" y1="230.0" x2="50.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="50.0" y1="410.0" x2="230.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="410.0" x2="230.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="230.0" x2="50.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 410.0 230.0  L 230.0 230.0  L 230.0 410.0  L 410.0 410.0  L 410.0 230.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path d="M 270.5 320.0 A 49.50000000000001 49.50000000000001 0 0 0 369.5 320.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(5,54,85);stroke-width:2"/>
+<path d="M 369.5 320.0 A 49.50000000000001 49.50000000000001 0 0 0 270.5 320.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(5,54,85);stroke-width:2"/>
+<path fill-rule="evenodd" fill-opacity="1" d="M 320.0 320.0  A 18.0 18.0 0 0 0 320.0 356.0  A 18.0 18.0 0 0 0 284.0 356.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 320.0 320.0  A 18.0 18.0 0 0 0 320.0 284.0  A 18.0 18.0 0 0 0 356.0 284.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 320.0 320.0  A 18.0 18.0 0 0 0 320.0 356.0  A 18.0 18.0 0 0 0 284.0 356.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 320.0 320.0  A 18.0 18.0 0 0 0 320.0 284.0  A 18.0 18.0 0 0 0 356.0 284.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="311.0" y1="320.0" x2="297.5" y2="320.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="313.636" y1="313.636" x2="304.09" y2="304.09" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="320.0" y1="311.0" x2="320.0" y2="297.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="326.364" y1="313.636" x2="335.91" y2="304.09" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="329.0" y1="320.0" x2="342.5" y2="320.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="326.364" y1="326.364" x2="335.91" y2="335.91" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="320.0" y1="329.0" x2="320.0" y2="342.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="313.636" y1="326.364" x2="304.09" y2="335.91" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="410.0" y1="230.0" x2="230.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="230.0" x2="230.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="410.0" x2="410.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="410.0" x2="410.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 590.0 410.0  L 590.0 230.0  L 410.0 230.0  L 410.0 410.0  L 590.0 410.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path d="M 500.0 270.5 A 49.50000000000001 49.50000000000001 0 0 0 500.0 369.5" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(5,54,85);stroke-width:2"/>
+<path d="M 500.0 369.5 A 49.50000000000001 49.50000000000001 0 0 0 500.0 270.5" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(5,54,85);stroke-width:2"/>
+<path fill-rule="evenodd" fill-opacity="1" d="M 500.0 320.0  A 18.0 18.0 0 0 0 464.0 320.0  A 18.0 18.0 0 0 0 464.0 284.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 500.0 320.0  A 18.0 18.0 0 0 0 536.0 320.0  A 18.0 18.0 0 0 0 536.0 356.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 500.0 320.0  A 18.0 18.0 0 0 0 464.0 320.0  A 18.0 18.0 0 0 0 464.0 284.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 500.0 320.0  A 18.0 18.0 0 0 0 536.0 320.0  A 18.0 18.0 0 0 0 536.0 356.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="500.0" y1="311.0" x2="500.0" y2="297.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="506.364" y1="313.636" x2="515.91" y2="304.09" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="509.0" y1="320.0" x2="522.5" y2="320.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="506.364" y1="326.364" x2="515.91" y2="335.91" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="500.0" y1="329.0" x2="500.0" y2="342.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="493.636" y1="326.364" x2="484.09" y2="335.91" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="491.0" y1="320.0" x2="477.5" y2="320.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="493.636" y1="313.636" x2="484.09" y2="304.09" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="590.0" y1="410.0" x2="590.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="590.0" y1="230.0" x2="410.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="230.0" x2="410.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="410.0" x2="590.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 590.0 230.0  L 590.0 410.0  L 770.0 410.0  L 770.0 230.0  L 590.0 230.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 725.0 230.0  L 725.0 410.0  L 770.0 410.0  L 770.0 230.0  L 725.0 230.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="680.0" y1="230.0" x2="680.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:1" />
+<line x1="725.0" y1="230.0" x2="725.0" y2="252.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="725.0" y1="275.0" x2="725.0" y2="297.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="725.0" y1="320.0" x2="725.0" y2="342.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="725.0" y1="365.0" x2="725.0" y2="387.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<path d="M 725.0 275.0 A 2 2 0 0 0 729.0 275.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 729.0 275.0 A 2 2 0 0 0 725.0 275.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 725.0 320.0 A 2 2 0 0 0 729.0 320.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 729.0 320.0 A 2 2 0 0 0 725.0 320.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 725.0 365.0 A 2 2 0 0 0 729.0 365.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 729.0 365.0 A 2 2 0 0 0 725.0 365.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<line x1="590.0" y1="230.0" x2="590.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="590.0" y1="410.0" x2="770.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="770.0" y1="410.0" x2="770.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="770.0" y1="230.0" x2="590.0" y2="230.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 50.0 410.0  L 50.0 590.0  L 230.0 590.0  L 230.0 410.0  L 50.0 410.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 185.0 410.0  L 185.0 590.0  L 230.0 590.0  L 230.0 410.0  L 185.0 410.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="140.0" y1="410.0" x2="140.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:1" />
+<line x1="185.0" y1="410.0" x2="185.0" y2="432.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="185.0" y1="455.0" x2="185.0" y2="477.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="185.0" y1="500.0" x2="185.0" y2="522.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="185.0" y1="545.0" x2="185.0" y2="567.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<path d="M 185.0 455.0 A 2 2 0 0 0 189.0 455.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 189.0 455.0 A 2 2 0 0 0 185.0 455.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 185.0 500.0 A 2 2 0 0 0 189.0 500.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 189.0 500.0 A 2 2 0 0 0 185.0 500.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 185.0 545.0 A 2 2 0 0 0 189.0 545.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 189.0 545.0 A 2 2 0 0 0 185.0 545.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<line x1="50.0" y1="410.0" x2="50.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="50.0" y1="590.0" x2="230.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="590.0" x2="230.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="410.0" x2="50.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 410.0 590.0  L 410.0 410.0  L 230.0 410.0  L 230.0 590.0  L 410.0 590.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path d="M 320.0 450.5 A 49.50000000000001 49.50000000000001 0 0 0 320.0 549.5" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(5,54,85);stroke-width:2"/>
+<path d="M 320.0 549.5 A 49.50000000000001 49.50000000000001 0 0 0 320.0 450.5" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(5,54,85);stroke-width:2"/>
+<path fill-rule="evenodd" fill-opacity="1" d="M 320.0 500.0  A 18.0 18.0 0 0 0 284.0 500.0  A 18.0 18.0 0 0 0 284.0 464.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 320.0 500.0  A 18.0 18.0 0 0 0 356.0 500.0  A 18.0 18.0 0 0 0 356.0 536.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 320.0 500.0  A 18.0 18.0 0 0 0 284.0 500.0  A 18.0 18.0 0 0 0 284.0 464.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 320.0 500.0  A 18.0 18.0 0 0 0 356.0 500.0  A 18.0 18.0 0 0 0 356.0 536.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="320.0" y1="491.0" x2="320.0" y2="477.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="326.364" y1="493.636" x2="335.91" y2="484.09" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="329.0" y1="500.0" x2="342.5" y2="500.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="326.364" y1="506.364" x2="335.91" y2="515.91" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="320.0" y1="509.0" x2="320.0" y2="522.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="313.636" y1="506.364" x2="304.09" y2="515.91" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="311.0" y1="500.0" x2="297.5" y2="500.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="313.636" y1="493.636" x2="304.09" y2="484.09" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="410.0" y1="590.0" x2="410.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="410.0" x2="230.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="410.0" x2="230.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="590.0" x2="410.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 410.0 410.0  L 410.0 590.0  L 590.0 590.0  L 590.0 410.0  L 410.0 410.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path d="M 500.0 549.5 A 49.50000000000001 49.50000000000001 0 0 0 500.0 450.5" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(5,54,85);stroke-width:2"/>
+<path d="M 500.0 450.5 A 49.50000000000001 49.50000000000001 0 0 0 500.0 549.5" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(5,54,85);stroke-width:2"/>
+<path fill-rule="evenodd" fill-opacity="1" d="M 500.0 500.0  A 18.0 18.0 0 0 0 536.0 500.0  A 18.0 18.0 0 0 0 536.0 536.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 500.0 500.0  A 18.0 18.0 0 0 0 464.0 500.0  A 18.0 18.0 0 0 0 464.0 464.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 500.0 500.0  A 18.0 18.0 0 0 0 536.0 500.0  A 18.0 18.0 0 0 0 536.0 536.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 500.0 500.0  A 18.0 18.0 0 0 0 464.0 500.0  A 18.0 18.0 0 0 0 464.0 464.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="500.0" y1="509.0" x2="500.0" y2="522.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="493.636" y1="506.364" x2="484.09" y2="515.91" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="491.0" y1="500.0" x2="477.5" y2="500.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="493.636" y1="493.636" x2="484.09" y2="484.09" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="500.0" y1="491.0" x2="500.0" y2="477.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="506.364" y1="493.636" x2="515.91" y2="484.09" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="509.0" y1="500.0" x2="522.5" y2="500.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="506.364" y1="506.364" x2="515.91" y2="515.91" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:3" />
+<line x1="410.0" y1="410.0" x2="410.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="590.0" x2="590.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="590.0" y1="590.0" x2="590.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="590.0" y1="410.0" x2="410.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 590.0 410.0  L 590.0 590.0  L 770.0 590.0  L 770.0 410.0  L 590.0 410.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 725.0 410.0  L 725.0 590.0  L 770.0 590.0  L 770.0 410.0  L 725.0 410.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="680.0" y1="410.0" x2="680.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:1" />
+<line x1="725.0" y1="410.0" x2="725.0" y2="432.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="725.0" y1="455.0" x2="725.0" y2="477.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="725.0" y1="500.0" x2="725.0" y2="522.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="725.0" y1="545.0" x2="725.0" y2="567.5" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<path d="M 725.0 455.0 A 2 2 0 0 0 729.0 455.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 729.0 455.0 A 2 2 0 0 0 725.0 455.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 725.0 500.0 A 2 2 0 0 0 729.0 500.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 729.0 500.0 A 2 2 0 0 0 725.0 500.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 725.0 545.0 A 2 2 0 0 0 729.0 545.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 729.0 545.0 A 2 2 0 0 0 725.0 545.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<line x1="590.0" y1="410.0" x2="590.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="590.0" y1="590.0" x2="770.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="770.0" y1="590.0" x2="770.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="770.0" y1="410.0" x2="590.0" y2="410.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 230.0 590.0  L 50.0 590.0  L 50.0 770.0  L 230.0 770.0  L 230.0 590.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 95.0 680.0  A 45.0 45.0 0 0 0 140.0 725.0  L 140.0 680.0  L 95.0 680.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path d="M 72.5 725.0 A 22.5 22.5 0 0 0 117.5 725.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(222,56,131);stroke-width:2"/>
+<path d="M 117.5 725.0 A 22.5 22.5 0 0 0 72.5 725.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(222,56,131);stroke-width:2"/>
+<line x1="72.5" y1="725.0" x2="95.0" y2="725.0" stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" />
+<line x1="50.0" y1="770.0" x2="81.82" y2="738.18" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:5" />
+<line x1="230.0" y1="590.0" x2="50.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="50.0" y1="590.0" x2="50.0" y2="770.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="50.0" y1="770.0" x2="230.0" y2="770.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="770.0" x2="230.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 230.0 770.0  L 410.0 770.0  L 410.0 590.0  L 230.0 590.0  L 230.0 770.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 230.0 635.0  L 410.0 635.0  L 410.0 590.0  L 230.0 590.0  L 230.0 635.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="230.0" y1="680.0" x2="410.0" y2="680.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:1" />
+<line x1="230.0" y1="635.0" x2="252.5" y2="635.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="275.0" y1="635.0" x2="297.5" y2="635.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="320.0" y1="635.0" x2="342.5" y2="635.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="365.0" y1="635.0" x2="387.5" y2="635.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<path d="M 275.0 635.0 A 2 2 0 0 0 275.0 631.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 275.0 631.0 A 2 2 0 0 0 275.0 635.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 320.0 635.0 A 2 2 0 0 0 320.0 631.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 320.0 631.0 A 2 2 0 0 0 320.0 635.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 365.0 635.0 A 2 2 0 0 0 365.0 631.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 365.0 631.0 A 2 2 0 0 0 365.0 635.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<line x1="230.0" y1="770.0" x2="410.0" y2="770.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="770.0" x2="410.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="590.0" x2="230.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="230.0" y1="590.0" x2="230.0" y2="770.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 590.0 590.0  L 410.0 590.0  L 410.0 770.0  L 590.0 770.0  L 590.0 590.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 590.0 725.0  L 410.0 725.0  L 410.0 770.0  L 590.0 770.0  L 590.0 725.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<line x1="590.0" y1="680.0" x2="410.0" y2="680.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:1" />
+<line x1="590.0" y1="725.0" x2="567.5" y2="725.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="545.0" y1="725.0" x2="522.5" y2="725.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="500.0" y1="725.0" x2="477.5" y2="725.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<line x1="455.0" y1="725.0" x2="432.5" y2="725.0" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:4" />
+<path d="M 545.0 725.0 A 2 2 0 0 0 545.0 729.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 545.0 729.0 A 2 2 0 0 0 545.0 725.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 500.0 725.0 A 2 2 0 0 0 500.0 729.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 500.0 729.0 A 2 2 0 0 0 500.0 725.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 455.0 725.0 A 2 2 0 0 0 455.0 729.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<path d="M 455.0 729.0 A 2 2 0 0 0 455.0 725.0" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(219,165,170);stroke-width:4"/>
+<line x1="590.0" y1="590.0" x2="410.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="590.0" x2="410.0" y2="770.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="410.0" y1="770.0" x2="590.0" y2="770.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="590.0" y1="770.0" x2="590.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 590.0 590.0  L 590.0 770.0  L 770.0 770.0  L 770.0 590.0  L 590.0 590.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<path fill-rule="evenodd" fill-opacity="1" d="M 680.0 725.0  A 45.0 45.0 0 0 0 725.0 680.0  L 680.0 680.0  L 680.0 725.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<path d="M 725.0 747.5 A 22.5 22.5 0 0 0 725.0 702.5" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(222,56,131);stroke-width:2"/>
+<path d="M 725.0 702.5 A 22.5 22.5 0 0 0 725.0 747.5" stroke-linecap="round" 
+            fill="transparent" fill-opacity="0" style="stroke:rgb(222,56,131);stroke-width:2"/>
+<line x1="725.0" y1="747.5" x2="725.0" y2="725.0" stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" />
+<line x1="770.0" y1="770.0" x2="738.18" y2="738.18" stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:5" />
+<line x1="590.0" y1="590.0" x2="590.0" y2="770.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="590.0" y1="770.0" x2="770.0" y2="770.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="770.0" y1="770.0" x2="770.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<line x1="770.0" y1="590.0" x2="590.0" y2="590.0" stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" />
+<text x="410.0" y="870.0" fill="rgb(222,56,131)" text-anchor="middle" style="font-size:35px;font-family:'Times New Roman';font-weight:bold;">lala</text><text x="410.0" y="900.0" fill="rgb(5,54,85)" text-anchor="middle" style="font-size:18px;font-family:'Times New Roman';font-weight:bold;">Created by: Ria, Eden, Landy.team(R.E.L.)</text><path fill-rule="evenodd" fill-opacity="1" d="M 135.0 1020.0  L 235.0 1020.0  L 235.0 920.0  L 135.0 920.0  L 135.0 1020.0 " stroke-linecap="round" style="stroke:rgb(201,59,116);stroke-width:2" fill="rgb(201,59,116)" />
+<text x="185.0" y="1040.0" fill="rgb(201,59,116)" text-anchor="middle" style="font-size:16px;font-family:'Arial';font-weight:bold;">(201, 59, 116)</text><path fill-rule="evenodd" fill-opacity="1" d="M 285.0 1020.0  L 385.0 1020.0  L 385.0 920.0  L 285.0 920.0  L 285.0 1020.0 " stroke-linecap="round" style="stroke:rgb(222,56,131);stroke-width:2" fill="rgb(222,56,131)" />
+<text x="335.0" y="1040.0" fill="rgb(222,56,131)" text-anchor="middle" style="font-size:16px;font-family:'Arial';font-weight:bold;">(222, 56, 131)</text><path fill-rule="evenodd" fill-opacity="1" d="M 435.0 1020.0  L 535.0 1020.0  L 535.0 920.0  L 435.0 920.0  L 435.0 1020.0 " stroke-linecap="round" style="stroke:rgb(5,54,85);stroke-width:2" fill="rgb(5,54,85)" />
+<text x="485.0" y="1040.0" fill="rgb(5,54,85)" text-anchor="middle" style="font-size:16px;font-family:'Arial';font-weight:bold;">(5, 54, 85)</text><path fill-rule="evenodd" fill-opacity="1" d="M 585.0 1020.0  L 685.0 1020.0  L 685.0 920.0  L 585.0 920.0  L 585.0 1020.0 " stroke-linecap="round" style="stroke:rgb(219,165,170);stroke-width:2" fill="rgb(219,165,170)" />
+<text x="635.0" y="1040.0" fill="rgb(219,165,170)" text-anchor="middle" style="font-size:16px;font-family:'Arial';font-weight:bold;">(219, 165, 170)</text><circle cx="95.0" cy="95.0" r="22.5" fill="rgb(5,54,85)" fill-opacity="1" />
+<circle cx="725.0" cy="95.0" r="22.5" fill="rgb(5,54,85)" fill-opacity="1" />
+<circle cx="95.0" cy="725.0" r="22.5" fill="rgb(5,54,85)" fill-opacity="1" />
+<circle cx="725.0" cy="725.0" r="22.5" fill="rgb(5,54,85)" fill-opacity="1" />
+</svg>

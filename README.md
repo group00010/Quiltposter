@@ -21,7 +21,63 @@ Ria: Yellowr! I made one set of the colour palettes and tile designs. I coded th
 Eden: I created my own color palette and designed a tile function with the shapes I wanted. I then created the function for the title and color squares to appear on the screen, as well as putting together the function that put the quilt, title, and color squares on the same screen. 
 
 Landy: I created a color palette and tile design set. I coded the user input correction system and the pallete randomiser (Interaction and Data Engineer). 
+#Psuedo code
 
+Begin
+import modules such as colab turtle, numpy
+import pre-determined tile functions (Ria, Landy, eden)
+import pre-determined colour palettes
+
+1: Defining functions=
+function draw_poster_text which determines the fixed text and palette at the bottom of the poster
+
+2: Interactive Code Section=
+a) gets name of the poster
+b) A while loop which lets you choose your colour palette and doesn't let you move forward until a valid input
+c) prints the options you have chosen
+d) gets the number of columns and rows with the set boundries (3,9)
+if input column count less than 3 prints too small 
+else if input column count greater than 8 then prints too large 
+else column no is defined
+e) if input rows count less than 3, print too small 
+else if input rows count greater than 8 ,then prints too large 
+else rows no is defined\
+
+3: Canvas layout generation=
+sets a fixed screen width as 820
+sets a basic square size as 100
+sets margin side space as 50
+
+Determines the tile size based on the inputs: ( screen width- margin side space*2)/ column no
+Determines quilt height : ( margin side space*2)+ ( tile size)* row no
+Sets screen height: integer( total quilt height)+( basic square size*3)
+
+clears screen
+initialises the window based on the screen height and width
+sets t as turle
+hides the turtle
+sets turle speed as the highest
+
+sets available tile styles from the previous imported modules
+sets selected tile function at random from the above
+
+4: Grid calculations
+for loop that assigns a number code to each square in the grid and cycles through the rows and columns
+for the corner square, the row and column code was unique and individually coded
+calls selected tile style function(t, x=x computed, y= y computed, size= tile size, rotation = determined by corner location, palette= palette input)
+For the border squares, the row and column code was either the row or column as a constant ( 0 or row/column input -1)
+calls selected tile style function(t, x=x computed, y= y computed, size= tile size, rotation = randomly selected between 0, 180/ 90,270 determind by horzizonla or vertical border, palette= palette input)
+else, the remaining squares were the centre squares
+calls selected tile style function(t, x=x computed, y= y computed, size= tile size, rotation = randomly selected between 0, 180, 270, 90, palette= palette input)
+
+5:
+calls draw psoter text (t, quilt_title, - total screen height/2+ basic square size*2.5, active_palette)
+move to (t, x= bsic_square_soze*2.75, y= total screen heigh/2+bsic square size)
+prints colour palette in squares 
+moves to predetermined location to print text from the draw poster text function
+closes grphic pipeline
+converts to svg format
+End
 # Files
 project.py – Main poster-generation program.
 

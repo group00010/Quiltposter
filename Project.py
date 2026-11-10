@@ -7,7 +7,7 @@ def generate_poster():
     from Eden_TileFunction import *
     from Landy_TileFunction import *
     from ria_tile_ import *
-    from palette_options import
+    from palette_options import *
     
     def draw_poster_text(t, title, y_position, palette):
         # canvas_height = quilt_height + side_space

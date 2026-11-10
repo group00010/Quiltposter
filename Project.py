@@ -6,7 +6,7 @@ def generate_poster():
 # Import your own code from TileFunctions.py and PaletteOptions.py
     from Eden_TileFunction import *
     from Landy_TileFunction import *
-    from ria_tile_ import *
+    from ria_file_ import *
     from palette_options import *
     
     def draw_poster_text(t, title, y_position, palette):

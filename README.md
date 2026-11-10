@@ -1,6 +1,7 @@
 # Quilt Poster
 Quilt poster
 
+<img width="820" height="880" alt="image" src="https://github.com/user-attachments/assets/43449152-ed8c-433f-b28d-0902c3d86d4a" />
 
 # R.E.L. (AKA Ria, Eden, Landy)
 Created by: Ria, Eden, Landy
